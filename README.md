@@ -26,7 +26,7 @@
 
 ## Installation via Tampermonkey
 
-1. Install the Tampermonkey extension for your browser (Chrome, Firefox, Edge, etc.)
+1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension for your browser (Chrome, Firefox, Edge, etc.)
 2. Create a new script
 3. Paste the contents of the `vk-js.js` file
 4. Save and refresh the page
