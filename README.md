@@ -1,4 +1,3 @@
-🇷🇺
 **vk-js** — это минималистичный JavaScript-скрипт, реализующий виртуальную клавиатуру с русской, английской раскладкой, а также раскладку со специальными символами. Клавиатура автоматически появляется при фокусе на текстовых полях (`<input>`, `<textarea>`), позволяет вводить текст без физической клавиатуры и включает поддержку регистра, перемещения курсора и удержания Backspace.
 
 ## Установка через Tampermonkey
@@ -23,7 +22,6 @@
 
 ---
 
-🇺🇸
 **vk-js** is a minimalist JavaScript script that implements a virtual keyboard with Russian, English, and special symbol layouts. The keyboard automatically appears when focusing on text fields (<input>, <textarea>), allows typing without a physical keyboard, and supports case switching, cursor movement, and long-press Backspace.
 
 ## Installation via Tampermonkey
